@@ -1,0 +1,175 @@
+<<<<<<< HEAD
+=======
+@font-face
+{
+    font-family: 'BallparkWeiner';
+    src: url('polices/ballpark.eot');
+    src: url('polices/ballpark.eot?#iefix') format('embedded-opentype'),
+         url('polices/ballpark.woff') format('woff'),
+         url('polices/ballpark.ttf') format('truetype'),
+         url('polices/ballpark.svg#BallparkWeiner') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Dayrom';
+    src: url('polices/dayrom.eot');
+    src: url('polices/dayrom.eot?#iefix') format('embedded-opentype'),
+         url('polices/dayrom.woff') format('woff'),
+         url('polices/dayrom.ttf') format('truetype'),
+         url('polices/dayrom.svg#Dayrom') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+>>>>>>> 2f42777a79cc255eb4cec340ece4021cfe07f0c3
+#slide{
+font-size:0px;
+text-decoration:blink;
+border-radius: 5px;
+width:15px;
+height:20px;
+background:red;
+transition:width 0.1s;
+-moz-transition:width 0.1s; /* Firefox 4 */
+-webkit-transition:width 0.1s; /* Safari and Chrome */
+-o-transition:width 0.1s; /* Opera */
+}
+
+#slide:hover{
+width:80px;
+font-size:16px;
+}
+
+/*
+.slide_button
+{
+color:red;
+text-decoration:none;
+}
+.slide_button:hover
+{
+color:black;
+}*/
+
+<<<<<<< HEAD
+=======
+
+
+body{
+	
+	background-color: #1C272B;
+	color: white;
+	border: 1px solid white;
+}
+
+.corner {
+    -moz-border-radius: 5px 0 50px 10px; 
+    -webkit-border-radius: 5px 0 50px 10px; 
+    -khtml-border-radius: 5px 0 50px 10px; 
+    border-radius: 10px 50px / 50px; 
+} 
+
+.push_button {
+		position:relative;
+        width:88px;
+        color:#FFF;
+        display:block;
+        text-decoration:none;
+        margin:0 auto;
+        border-radius:5px;
+        border:solid 1px #D94E3B;
+        background:#cb3b27;
+        text-align:center;
+        padding:8px 10px;
+        -webkit-transition: all 0.1s;
+        -moz-transition: all 0.1s;
+        transition: all 0.1s;
+        -webkit-box-shadow: 0px 9px 0px #84261a;
+        -moz-box-shadow: 0px 9px 0px #84261a;
+        box-shadow: 0px 9px 0px #84261a;
+}
+
+.push_button:active{
+    -webkit-box-shadow: 0px 2px 0px #84261a;
+    -moz-box-shadow: 0px 2px 0px #84261a;
+    box-shadow: 0px 2px 0px #84261a;
+    position:relative;
+    top:7px;
+}
+
+#header
+{
+	background: url("images/banner1.jpg")	no-repeat top right;
+	border: 1px solid white;
+	margin-bottom: 2px;
+	border-radius: 5px;
+}
+#banniere_description
+{
+	padding-bottom: 5px;
+	position: absolute;
+	top:150px;
+	right: 100px;
+	height:300px
+}
+#banner
+{
+	
+	display:inline-block;
+	
+}
+
+#logo, #banner,h1
+{
+	display: inline-block;
+}
+
+
+#bloc_page
+{
+    width: 1170px;
+    margin-left: 170px;
+	border: 1px solid white;
+	
+	}
+	
+#preview
+{
+	width: 894px;
+	margin-left: 1px;
+	border: 1px solid white;
+	border-radius: 5px;
+	display: inline-block;
+	padding-left: 5px;
+	padding-right:5px;
+}
+
+nav li
+{
+	display: inline-block;
+	
+	}
+	
+#recent
+{
+	width:250px;
+	border: 1px solid white;
+	border-radius: 5px;
+	float:right;
+	display: inline-block;
+	padding-left: 5px;
+	padding-right:2px;
+	
+}
+
+#menu-gauche
+{
+width:160px;
+float:left;
+border: 1px solid white;
+}
+
+>>>>>>> 2f42777a79cc255eb4cec340ece4021cfe07f0c3
