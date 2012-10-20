@@ -1,0 +1,29 @@
+MOHAMMED YASSIN DAHAB is from EGYPT. He is preparing for his CCNA Exam. His Scenario is about a Company with a Head Quarter and two Branch offices that connect via Frame-Relay using Hub and Spok topology.
+
+The Scenario includes:
+
+1-Router and Switch Security
+enable sectert -VTY Password -Console password - user name and password - encryption servive - Disable Telnet -exec time out
+Port Security with Restrict Violation
+
+2-VLAN
+Sales and Accountant VLANs with inter-VLAN routing
+
+3-STP
+R-PVSTP used in Network 1
+
+4-Routing
+OSPF Routing Protocol with 3 Areas 0 ,1 ,2
+with route Summarization
+
+
+4-Access List
+is used every where:-
+
+Every one can use WEB1 Server , But WEB2, and WEB3 are isolated for there network
+
+Only IT Computers can SSH Routers
+
+Network 7 is Isolated Network can reach every where , but no one can reach it
+
+5-Frame Relay
