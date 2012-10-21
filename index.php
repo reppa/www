@@ -528,8 +528,4 @@ a:hover {
 EOPAGE;
 
 echo $pageContents;
-<<<<<<< HEAD
 ?>
-=======
-?>
->>>>>>> 2f42777a79cc255eb4cec340ece4021cfe07f0c3
